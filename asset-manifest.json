@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70799bc5.css",
-    "main.js": "/static/js/main.1277e08a.js",
+    "main.css": "/static/css/main.e83cf5f8.css",
+    "main.js": "/static/js/main.f149170c.js",
     "static/js/787.2075b7a2.chunk.js": "/static/js/787.2075b7a2.chunk.js",
     "static/media/SSEnse.png": "/static/media/SSEnse.805bc2acec2e0106a7dc.png",
     "static/media/tripAdvisor.png": "/static/media/tripAdvisor.2e578626e5e11a4ad4ab.png",
@@ -10,12 +10,12 @@
     "static/media/chakra.png": "/static/media/chakra.7faa7025d019f1ad3b2b.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.70799bc5.css.map": "/static/css/main.70799bc5.css.map",
-    "main.1277e08a.js.map": "/static/js/main.1277e08a.js.map",
+    "main.e83cf5f8.css.map": "/static/css/main.e83cf5f8.css.map",
+    "main.f149170c.js.map": "/static/js/main.f149170c.js.map",
     "787.2075b7a2.chunk.js.map": "/static/js/787.2075b7a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70799bc5.css",
-    "static/js/main.1277e08a.js"
+    "static/css/main.e83cf5f8.css",
+    "static/js/main.f149170c.js"
   ]
 }
